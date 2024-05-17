@@ -10,6 +10,8 @@ and enhance decision-making within a healthcare facility.
 
 Entity Relationship Diagram:
 
+![Blank diagram (2)](https://github.com/prachiprabha-s/SQL-for-Analytics-P1/assets/168185906/e703c175-0a76-437c-bea9-4702879fa6f6)
+
 
 Case Study 01: Appointment and Patient Data
 
